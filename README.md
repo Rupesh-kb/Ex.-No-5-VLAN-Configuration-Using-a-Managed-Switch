@@ -1,4 +1,4 @@
-## Ex. No: 5  VLAN Configuration Using a Managed Switch
+## Ex. No: 4  VLAN Configuration Using a Managed Switch
 ________________________________________
 # Objective
 To configure Virtual Local Area Networks (VLANs) on a managed switch and verify that hosts within the same VLAN can communicate while others cannot.
