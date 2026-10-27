@@ -59,7 +59,9 @@ Switch(config-if-range)# switchport access vlan 20<br>
 Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
-<img width="1920" height="1200" alt="Screenshot 2026-10-24 105216" src="https://github.com/user-attachments/assets/58398988-0b4b-470a-aa40-ae041170bcc0" />
+<img width="678" height="420" alt="image" src="https://github.com/user-attachments/assets/a6129266-3789-4c45-a588-5a919efac4da" />
+<img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/61debb15-17bb-4867-af1e-2ec71267ae8e" />
+<img width="877" height="873" alt="image" src="https://github.com/user-attachments/assets/581f324f-a037-4ebf-a633-af56f0e005e6" />
 
 # Result
 Successfully created and configured VLANs on a managed switch. Verified that only PCs within the same VLAN could communicate with each other.
